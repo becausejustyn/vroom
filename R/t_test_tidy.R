@@ -1,5 +1,5 @@
 
-#' Title
+#' t_test_tidy
 #'
 #' @param x t-test data type
 #'

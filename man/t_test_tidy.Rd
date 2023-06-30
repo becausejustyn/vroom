@@ -2,7 +2,7 @@
 % Please edit documentation in R/t_test_tidy.R
 \name{t_test_tidy}
 \alias{t_test_tidy}
-\title{Title}
+\title{t_test_tidy}
 \usage{
 t_test_tidy(x)
 }
@@ -13,7 +13,7 @@ t_test_tidy(x)
 a tidy df for the t-test
 }
 \description{
-Title
+t_test_tidy
 }
 \examples{
 t_test_tidy(t.test(extra ~ group, data = sleep))

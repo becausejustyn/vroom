@@ -1,1 +1,2 @@
 exportPattern("^[[:alpha:]]+")
+importFrom("stats", "bartlett.test", "sd", "setNames")
